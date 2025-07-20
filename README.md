@@ -6,7 +6,7 @@
 
 ### Frontend Development
 - **JavaScript** (ES6+), **TypeScript**
-- **OWL.js** / **Vue.js** / (или другие фреймворки, которые вы используете)
+- **OWL.js** / **Vue.js**
 - HTML5, CSS3, SASS
 
 ### Odoo Development
@@ -20,4 +20,4 @@
 - Git, GitHub/GitLab
 - Docker, Docker-compose
 - Основы баз данных (PostgreSQL)
-- REST API, GraphQL (если есть опыт)
+- REST API, GraphQL 
