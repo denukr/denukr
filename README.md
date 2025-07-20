@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, меня зовут Денис 👋
 
-<!--
-**denukr/denukr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я фронтенд-разработчик и Odoo-разработчик с опытом создания современных веб-приложений и кастомизации ERP-систем.
 
-Here are some ideas to get you started:
+## 🛠️ Технологии и навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Development
+- **JavaScript** (ES6+), **TypeScript**
+- **OWL.js** / **Vue.js** / (или другие фреймворки, которые вы используете)
+- HTML5, CSS3, SASS
+
+### Odoo Development
+- Разработка и кастомизация модулей Odoo (v12-v16)
+- Python, XML, QWeb
+- Создание отчетов (QWeb, PDF)
+- Интеграция с внешними системами
+- Настройка и оптимизация производительности
+
+### Другие навыки
+- Git, GitHub/GitLab
+- Docker, Docker-compose
+- Основы баз данных (PostgreSQL)
+- REST API, GraphQL (если есть опыт)
